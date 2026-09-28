@@ -35,4 +35,5 @@ streamlit run app.py
 | `ats_checks.py` | Rule-based ATS scoring |
 | `ai_analyzer.py` | Gemini API call + JSON parsing |
 
-
+## Live demo
+https://ai-resume-analyzer-mksfpyc6xajdi9za6bjgks.streamlit.app/
